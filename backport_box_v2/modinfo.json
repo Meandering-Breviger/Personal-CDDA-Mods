@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "backport_box",
+    "name": "Backport Box 12/29/21",
+    "authors": [ "Meandering_Breviger" ],
+    "description": "A personal mod that adds some stuff from experimental to stable",
+    "version": "DDA version, update 7/7/2021",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]

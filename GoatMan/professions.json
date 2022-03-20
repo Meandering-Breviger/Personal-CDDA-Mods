@@ -3,16 +3,16 @@
       "type": "profession",
       "id": "goat_man",
       "name": { "male": "Goat Man", "female": "Goat Lady" },
-      "description": "",
+      "description": "Everyone is dead?  Oh well, it doesn't matter. Your beloved goats are all you need!",
       "points": 3,
-      "skills": [ { "level": 1, "name": "survival" }, { "level": 1, "name": "cooking" }, { "level": 1, "name": "tailor" } ],
+      "skills": [ { "level": 2, "name": "survival" }, { "level": 1, "name": "cooking" }, { "level": 1, "name": "tailor" } ],
       "pets": [
         { "name": "mon_goat", "amount": 2 }
       ],
       "items": {
         "both": {
-          "items": [ "jeans", "longshirt", "socks", "sneakers", "pockknife", "wristwatch", "mbag" ],
-          "entries": [ { "item": "short_rope", "count": 2 } ]
+          "items": [ "jeans", "longshirt", "socks", "sneakers", "pockknife", "diving_watch", "mbag" ],
+          "entries": [ { "item": "rope_6", "count": 2 } ]
         },
         "male": [ "boxer_shorts" ],
         "female": [ "bra", "panties" ]

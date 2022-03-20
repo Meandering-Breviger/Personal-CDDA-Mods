@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "man_of_the_goats",
+    "name": "Goat Man",
+    "authors": [ "Meandering_Breviger" ],
+    "description": "A WIP/POC mod showing the glory of Goat Man",
+    "version": "DDA v1.0.0",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]

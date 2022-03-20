@@ -1,0 +1,21 @@
+[
+    {
+      "type": "profession",
+      "id": "goat_man",
+      "name": { "male": "Goat Man", "female": "Goat Lady" },
+      "description": "",
+      "points": 3,
+      "skills": [ { "level": 1, "name": "survival" }, { "level": 1, "name": "cooking" }, { "level": 1, "name": "tailor" } ],
+      "pets": [
+        { "name": "mon_goat", "amount": 2 }
+      ],
+      "items": {
+        "both": {
+          "items": [ "jeans", "longshirt", "socks", "sneakers", "pockknife", "wristwatch", "mbag" ],
+          "entries": [ { "item": "short_rope", "count": 2 } ]
+        },
+        "male": [ "boxer_shorts" ],
+        "female": [ "bra", "panties" ]
+      }
+    }
+]
